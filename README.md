@@ -7,4 +7,5 @@
 ### Usage
 1. Start web server with "start.bat" and don't close it.
 2. Start auto compile server with "build.bat" and don't close it.
+3. Open url "http://localhost:8080/" in web browser.
 
